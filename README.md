@@ -4,6 +4,7 @@
 
 ## https://friender-social-media.herokuapp.com/
 
+## Technologies Used
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -11,29 +12,16 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ## Description
 A full-stack MERN application that allows users to connect with each other by searching for similar interests and hobbies.
 
 ## Table of Contents
-* [Technologies Used](#technologies)
 * [Screenshots](#screenshots)
-* [Links](#links)
 * [License](#license)
 * [Contributors](#contributors)
-
-## Technologies Used
-* HTML
-* CSS
-* React
-* VSCode
-* Node.js
-* Express.js
-* JavaScript
-* MongoDB
-* Apollo GraphQL
-* bcrypt
-* JSON Web Tokens
 
 ## Screenshots
 ![Landing](./client//src/assets/images/screenshots/friender-ss-landing.png)
@@ -42,9 +30,6 @@ A full-stack MERN application that allows users to connect with each other by se
 ![Add Hobbies](./client/src/assets/images/screenshots/friender-ss-addhobbies.png)
 ![Search Results](./client/src/assets/images/screenshots/friender-ss-searchresults.png)
 
-## Links
-[GitHub Repository](https://github.com/samanthajrexroat/Friender)  
-[Deployed Live With Heroku](https://friender-social-media.herokuapp.com/)
 
 ## License
 MIT
