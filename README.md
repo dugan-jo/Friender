@@ -2,6 +2,8 @@
 
 # Full Stack Social Media Application (MERN)
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ## Description
 A full-stack MERN application that allows users to connect with each other by searching for similar interests and hobbies.
 
