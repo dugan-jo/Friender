@@ -1,6 +1,6 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# Friender
+# Full Stack Social Media Application (MERN)
 
 ## Description
 A full-stack MERN application that allows users to connect with each other by searching for similar interests and hobbies.
