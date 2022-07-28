@@ -4,7 +4,7 @@
 
 ## Links
 
-https://friender-social-media.herokuapp.com/
+https://app-friender.herokuapp.com/
 
 ## Description
 A full-stack MERN application that allows users to connect with each other by searching for similar interests and hobbies.
